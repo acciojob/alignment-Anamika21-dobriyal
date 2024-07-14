@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.middle{
+	border:1px solid black;
+	width:100%;
+	border-spacing:1px;
+	cell-padding:1px;
+	
+}
+tr,td{
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+#table-2{
+  height:150px
+ 
+}
+#table-3{
+	border:1px solid black;
+}
+#t-image{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
